@@ -27,7 +27,7 @@ Una colección curada de **herramientas de vibe coding**, **plataformas de desar
 
 Con **plataformas de vibe coding** y **herramientas de programación con inteligencia artificial**, puedes generar código automáticamente, colaborar con asistentes de IA y construir aplicaciones 10x más rápido.
 
-**No sabes donde empezar?:**
+**No sabes donde empezar?**
 - [Curso de Vibe Coding](https://aprendevibecoding.com/?ref=github) - Curso de Vibe Coding para crear tu primer app.
 
 ---
@@ -38,45 +38,34 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 ### Plataformas principales para full-stack
 
-- **🔥 [Lovable](https://lovable.dev/?via=queiaes)** - "Idea to app in seconds. Lovable is your superhuman full stack engineer". Excelente para **herramientas de programación con inteligencia artificial**.
-- **🔥 [v0 by Vercel](https://v0.dev)** - Assistant to build NextJS frontend. Especializada en generación de componentes React con IA.
-- **🔥 [Bolt.new](https://bolt.new)** - Prompt, run, edit, and deploy full-stack web and mobile apps. La mejor **plataforma de vibe coding** para principiantes.
+- **🔥 [Lovable](https://lovable.dev/?via=queiaes)** - “De idea a app en segundos. Lovable es tu ingeniero full-stack superhumano”. **Excelente para herramientas de programación con inteligencia artificial.**
+- **🔥 [v0 by Vercel](https://v0.dev)** - Asistente para crear frontends en NextJS. Especializado en generación de componentes React con IA.
+- **🔥 [Bolt.new](https://bolt.new)** - Prompt, ejecuta, edita y despliega apps web y móviles full-stack. 
 
 ### Otras plataformas de vibe coding
 
-- **[Replit](https://replit.com)** - Simply describe your idea above and let the Agent build it for you. Un **IDE en la nube** con asistente de IA integrado.
-- **[Capacity](https://capacity.io)** - Turn your ideas into fully functional web apps in minutes using AI.
-- **[CHAI.new by Langbase](https://chai.new)** - Prompt to vibe code any AI agent and deploy (agent, app, api)
-- **[Create](https://create.withcms.ai)** - Turn your words into sites, tools, apps, and products.
-- **[Trickle AI](https://trickleai.com)** - Build stunning websites, AI apps, and forms with ease.
-- **[Tempo](https://tempo.dev)** - Build React apps 10x faster with AI.
-- **[Softgen](https://softgen.io)** - Describe your vision, give instructions, and build full-stack web apps.
-- **[Lazy AI](https://lazy.so)** - Build reliable business apps with prompts.
-- **[HeyBoss](https://heyboss.ai)** - Build app & sites in minutes.
-- **[Creatr](https://creatr.ai)** - Create and deploy web apps and landing pages in seconds.
-- **[Rork](https://rork.app)** - Build any mobile app, fast.
-- **[Firebase Studio](https://firebase.google.com/studio)** - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
-- **[Napkins.dev](https://napkins.dev)** - Screenshot to code. Convierte diseños en código automáticamente.
-- **[HeroUI Chat](https://heroui.com/chat)** - Generate beautiful apps regardless of your design experience.
-- **[Rocket.new](https://rocket.new)** - Build Web & Mobile Apps 10x Faster Without Code.
-
----
+- **[Replit](https://replit.com)** - Describe tu idea y el agente la construye por ti. Un IDE en la nube con asistente de IA integrado.
+- **[Rork](https://rork.app)** - Construye cualquier app móvil, rápido.
+- **[Firebase Studio](https://firebase.google.com/studio)** -Entorno de desarrollo agentic en la nube de Google para crear y lanzar apps full-stack con IA a nivel producción.
+- **[Napkins.dev](https://napkins.dev)** - De captura de pantalla a código. Convierte diseños en código automáticamente.
+- **[HeroUI Chat](https://heroui.com/chat)** - Genera apps visualmente atractivas sin importar tu nivel de diseño.
+- **[Rocket.new](https://rocket.new)** - Construye apps web y móviles 10x más rápido sin código.
 
 ## 💻 IDEs y editores de código
 
 ### IDEs agenticos para vibe coding profesional
 
-- **🔥 [Windsurf Editor by Codeium](https://codeium.com/windsurf)** - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic". El mejor **IDE en la nube** para equipos colaborativos.
-- **🔥 [Cursor](https://cursor.sh)** - AI Code Editor, "the best way to code with AI". Mejor para **desarrollo asistido por IA** avanzado.
-- **[Zed](https://zed.dev)** - Code editor designed for high-performance collaboration with humans and AI.
-- **[Amazon Kiro](https://aws.amazon.com/kiro)** - The AI IDE for prototype to production.
-- **[Google Antigravity](https://cloud.google.com/blog/topics/developers-practitioners/introducing-antigravity)** - Google's IDE built around an agent-first approach
+- **🔥 [Windsurf Editor by Codeium](https://codeium.com/windsurf)** - IDE Agéntico, "donde el trabajo de desarrolladores e IA realmente fluyen juntos, permitiendo una experiencia de codificación que se siente como magia literal". El mejor **IDE en la nube** para equipos colaborativos.
+- **🔥 [Cursor](https://cursor.sh)** - Editor de Código con IA, "la mejor forma de codificar con IA". Mejor para **desarrollo asistido por IA** avanzado.
+- **[Zed](https://zed.dev)** - Editor de código diseñado para colaboración de alto rendimiento con humanos e IA.
+- **[Amazon Kiro](https://aws.amazon.com/kiro)** - El IDE de IA para prototipo a producción.
+- **[Google Antigravity](https://cloud.google.com/blog/topics/developers-practitioners/introducing-antigravity)** - IDE de Google construido con enfoque primero en agentes
 
 ---
 
 ## 📱 Aplicaciones móviles
 
-- **[VibeCode](https://vibecode.app)** - The app that builds apps. Una **herramienta de programación con IA** directamente en tu teléfono.
+- **[VibeCode](https://vibecode.app)** - La aplicación que construye aplicaciones. Una **herramienta de programación con IA** directamente en tu teléfono.
 
 ---
 
@@ -84,29 +73,23 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 ### Extensiones de VS Code para vibe coding
 
-- **[Cline](https://github.com/cline/cline)** - AI assistant that can use your CLI and Editor, for VS Code.
-- **[Roo Code](https://github.com/RooVetGit/Roo-Code)** - Fork of cline with extra features/enhancements
-- **[Kilo Code](https://github.com/kartikm/kilo-code)** - Open-source AI coding agent extension for popular IDEs like VS Code and JetBrains.
-- **[Amp](https://github.com/sourcegraph/amp)** - Frontier coding agent for your terminal and editor, built by Sourcegraph.
-- **[GitHub Copilot](https://github.com/features/copilot)** - The most popular AI coding assistant. Code completion, chats, and agent mode for agentic coding.
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer)** - Amazon's Generative AI Assistant for Software Development.
-
-### Extensiones para otros editores
-
-- **[avante.nvim](https://github.com/yetone/avante.nvim)** - Neovim plugin designed to emulate the behavior of the Cursor AI IDE.
-- **[Augment Code](https://www.augmentcode.com)** - An AI coding assistant built for professional software engineers and large codebases.
-- **[continue](https://github.com/continuedev/continue)** - Build, share, and use custom AI code assistants with open-source IDE extensions and library of models, prompts, rules, and docs.
+- **[Cline](https://github.com/cline/cline)** - Asistente de IA que puede usar tu CLI y Editor, para VS Code.
+- **[Roo Code](https://github.com/RooVetGit/Roo-Code)** - Fork de cline con características/mejoras adicionales
+- **[Kilo Code](https://github.com/kartikm/kilo-code)** - Extensión agente de codificación con IA de código abierto para IDEs populares como VS Code y JetBrains.
+- **[Amp](https://github.com/sourcegraph/amp)** - Agente de codificación frontera para tu terminal y editor, construido por Sourcegraph.
+- **[GitHub Copilot](https://github.com/features/copilot)** - El asistente de codificación con IA más popular. Completación de código, chats y modo agente para codificación agéntica.
+- **[Amazon Q Developer](https://aws.amazon.com/q/developer)** - Asistente de IA Generativa de Amazon para Desarrollo de Software.
 
 ### Herramientas adicionales
 
-- **[backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower)** - A tool that helps you build prompts with many code blocks.
-- **[Superdesign.dev](https://superdesign.dev)** - Open Source Design Agent.
+- **[backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower)** - Una herramienta que te ayuda a construir prompts con muchos bloques de código.
+- **[Superdesign.dev](https://superdesign.dev)** - Agente de Diseño de Código Abierto.
 
 ---
 
 ## 🖥️ Aplicaciones locales
 
-- **[Dyad](https://dyad.ai)** - Free, local, open-source AI app builder. Para quienes prefieren **herramientas de vibe coding** locales y sin conexión.
+- **[Dyad](https://dyad.ai)** - Constructor de aplicaciones de IA gratuito, local y de código abierto. Para quienes prefieren **herramientas de vibe coding** locales y sin conexión.
 
 ---
 
@@ -114,32 +97,33 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 ### Agentes de codificación para terminal
 
-- **🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code)** - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
-- **[aider](https://aider.chat)** - AI pair programming in your terminal.
-- **[codename goose](https://www.getgoose.ai)** - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
-- **[MyCoder.ai](https://www.mycoder.ai)** - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
-- **[ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid)** - A standalone coding agent built on LangGraph's agent-based task execution framework
-- **[CodeSelect](https://github.com/CodeSelectAI/code-select)** - A Python-based command-line tool that efficiently communicates project source code to AIs.
-- **[OpenAI Codex CLI](https://github.com/shobrook/repl-ai)** - OpenAI's lightweight coding agent that runs in the terminal
-- **[Gemini CLI](https://github.com/google/generative-ai-swift)** - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
-- **[QwenLM/qwen-code](https://github.com/QwenLM/Qwen-Agent)** - "qwen-code is a coding agent that lives in digital world".
-- **[opencode](https://github.com/opencodedev/opencode)** - AI coding agent built for the terminal.
-- **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - The glamorous AI coding agent for your favourite terminal, generates command line interfaces.
-- **[Warp](https://www.warp.dev)** - A Rust-based command line featuring native AI integration.
+- **🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code)** - Agente de codificación que entiende tu base de código, automatiza tareas, explica código y gestiona git, todo a través de lenguaje natural.
+- **[aider](https://aider.chat)** - Programación en pareja con IA en tu terminal.
+- **[codename goose](https://www.getgoose.ai)** - Agente de IA local, en la máquina que te permite usar cualquier LLM y añadir cualquier servidor MCP como extensiones
+- **[MyCoder.ai](https://www.mycoder.ai)** - Asistente de codificación impulsado por IA de código abierto con integración de Git y GitHub, con ejecución paralela y capacidades de auto-modificación.
+- **[ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid)** - Un agente de codificación independiente construido en el marco de ejecución de tareas basado en agentes de LangGraph
+- **[CodeSelect](https://github.com/CodeSelectAI/code-select)** - Una herramienta de línea de comandos basada en Python que comunica eficientemente el código fuente del proyecto a las IAs.
+- **[OpenAI Codex CLI](https://github.com/shobrook/repl-ai)** - Agente de codificación ligero de OpenAI que se ejecuta en la terminal
+- **[Gemini CLI](https://github.com/google/generative-ai-swift)** - Un agente de IA de código abierto de Google que trae el poder de Gemini directamente a tu terminal.
+- **[QwenLM/qwen-code](https://github.com/QwenLM/Qwen-Agent)** - "qwen-code es un agente de codificación que vive en el mundo digital".
+- **[opencode](https://github.com/opencodedev/opencode)** - Agente de codificación con IA construido para la terminal.
+- **[charmbracelet/crush](https://github.com/charmbracelet/crush)** - El agente de codificación elegante con IA para tu terminal favorito, genera interfaces de línea de comandos.
+- **[Warp](https://www.warp.dev)** - Una línea de comandos basada en Rust con integración nativa de IA.
 
 ---
 
 ## 📋 Gestión de tareas para codificación con IA
 
-- **[Boomerang Tasks](https://boomerang.so)** - Automatically break down complex projects into smaller, manageable pieces.
-- **[Claude Task Master](https://github.com/claude-task-master)** - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- **[Boomerang Tasks](https://boomerang.so)** - Desglosa automáticamente proyectos complejos en piezas más pequeñas y manejables.
+- **[Claude Task Master](https://github.com/claude-task-master)** - Un sistema de gestión de tareas impulsado por IA que puedes integrar en Cursor, Lovable, Windsurf, Roo y otros.
 
 ---
 
 ## 📚 Documentación para vibe coding
 
-- **[CodeGuide](https://codeguide.ai)** - Creates detailed Documentation for your AI Coding Projects.
-- **[AGENTS.md](https://github.com/anthropics/agents-spec)** - A simple, open format for guiding coding agents.
+- **[CodeGuide](https://codeguide.ai)** - Crea Documentación detallada para tus Proyectos de Codificación con IA.
+- **[AGENTS.md](https://github.com/anthropics/agents-spec)** - Un formato abierto y simple para guiar agentes de codificación.
+
 
 ---
 
