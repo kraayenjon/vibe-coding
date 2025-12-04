@@ -1,4 +1,4 @@
-# Vibe Coding: Plataformas de programación con IA y cloud IDE
+# Vibe Coding: Un repositorio curado con las mejores referencias de vibe coding
 
 Una repositorio curado con las mejores **herramientas de vibe coding**, **plataformas de desarrollo con IA en la nube** y **IDE en la nube con inteligencia artificial** para desarrolladores modernos que quieren programar más rápido con asistentes de código potenciados por IA.
 
