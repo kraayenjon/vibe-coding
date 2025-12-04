@@ -147,18 +147,6 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 Últimas actualizaciones sobre vibe coding y herramientas de programación con IA:
 
-- 🔥 **[The Prompt Engineering Playbook for Programmers](https://example.com)**
-- 🔥 **[The Way of Code | Rick Rubin](https://youtube.com/example)**
-- **[What is vibe coding? A computer scientist explains what it means to have AI write computer code](https://theconversation.com/what-is-vibe-coding)**
-- **[Peer Programming with LLMs, For Senior+ Engineers](https://example.com)**
-- **[The State of Vibe Coding Tools (May 2025)](https://linkedin.com/example)**
-- **[Vibe Coding 101 with Replit - DeepLearning.AI](https://deeplearning.ai)**
-- **[The "vibe coding" mind virus explained… by Fireship](https://youtube.com/example)**
-- **[Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://example.com)**
-- **[bolt.new: Go from Figma to pixel-perfect full stack app](https://x.com/boltdotnewinnovations)**
-- **[Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com)**
-- **[Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io)**
-- **[A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://nytimes.com)**
 
 ### Comunidades
 
@@ -180,7 +168,7 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 ### 👉 Curso completo de vibe coding
 
-En **[aprendevibecoding.com](https://aprendevibecoding.com)** aprenderás:
+En **[aprendevibecoding.com](https://aprendevibecoding.com/?github)** aprenderás:
 
 ✅ Cómo dominar las mejores **plataformas de vibe coding** (Bolt.new, Lovable, Cursor)  
 ✅ Técnicas avanzadas de prompting para generar código profesional  
@@ -189,7 +177,7 @@ En **[aprendevibecoding.com](https://aprendevibecoding.com)** aprenderás:
 ✅ Mejores prácticas de vibe coding para equipos colaborativos  
 ✅ Cómo pasar de cero a productor de código con IA  
 
-**[Comienza tu aprendizaje hoy →](https://aprendevibecoding.com)**
+**[Comienza tu aprendizaje hoy →](https://aprendevibecoding.com/?github)**
 
 ---
 
@@ -229,51 +217,27 @@ Muchas plataformas son gratis (Replit, Bolt.new, Windsurf). Las opciones premium
 
 - **[automata/aicodeguide](https://github.com/automata)** - A roadmap to start coding with AI.
 - **[Documentación oficial](https://aprendevibecoding.com)** - Tutoriales y mejores prácticas
+- **[Videos y Tutoriales]([https://aprendevibecoding.com](https://www.youtube.com/@kraayenjon))** - Canal de Youtube con videos prácticos
 
 ---
 
 ## 🔗 Enlaces rápidos
 
 **Plataformas recomendadas:**
-- 🔥 [Bolt.new](https://bolt.new) - Para principiantes
+- **🔥 [Lovable](https://lovable.dev/?via=queiaes)** - - Para principiantes
 - 🔥 [Cursor](https://cursor.sh) - Para profesionales
 - 🔥 [Windsurf](https://codeium.com/windsurf) - Para equipos
 
 **Aprende más:**
 - [aprendevibecoding.com](https://aprendevibecoding.com) - Curso completo
 - [/r/vibecoding](https://reddit.com/r/vibecoding) - Comunidad
-- [The New Stack](https://thenewstack.io) - Artículos sobre vibe coding
+
 
 ---
 
 ## 🤝 Contribuir
 
 ¿Conoces una **herramienta de vibe coding** que falta aquí? ¡Las contribuciones son bienvenidas!
-
-### Guía de contribución
-
-1. Asegúrate de que es una **plataforma de vibe coding**, **IDE en la nube con IA**, o **herramienta de programación asistida por IA** legítima
-2. Agrega la herramienta en la sección correspondiente
-3. Incluye una descripción breve (máximo 2 líneas) y un enlace directo
-4. Abre un [issue](https://github.com) o [pull request](https://github.com)
-
-**Sé respetuoso y sigue el formato existente. ¡Gracias!**
-
----
-
-## 📄 Licencia
-
-Este repositorio está bajo licencia MIT. Libre para usar, modificar y distribuir.
-
----
-
-## 🌟 Síguenos
-
-- 🐦 **Twitter** - Noticias y tips sobre vibe coding
-- 💬 **Discord** - Únete a la comunidad
-- 📧 **Newsletter** - Actualizaciones semanales
-
-**[Visita aprendevibecoding.com](https://aprendevibecoding.com)** para acceder a todos los recursos.
 
 ---
 
