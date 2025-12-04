@@ -38,9 +38,9 @@ Las mejores **plataformas de vibe coding para programar desde el navegador**:
 
 ### Plataformas principales para full-stack
 
-- **🔥 [Bolt.new](https://bolt.new)** - Prompt, run, edit, and deploy full-stack web and mobile apps. La mejor **plataforma de vibe coding** para principiantes.
-- **🔥 [Lovable](https://lovable.dev)** - "Idea to app in seconds. Lovable is your superhuman full stack engineer". Excelente para **herramientas de programación con inteligencia artificial**.
+- **🔥 [Lovable](https://lovable.dev/?via=queiaes)** - "Idea to app in seconds. Lovable is your superhuman full stack engineer". Excelente para **herramientas de programación con inteligencia artificial**.
 - **🔥 [v0 by Vercel](https://v0.dev)** - Assistant to build NextJS frontend. Especializada en generación de componentes React con IA.
+- **🔥 [Bolt.new](https://bolt.new)** - Prompt, run, edit, and deploy full-stack web and mobile apps. La mejor **plataforma de vibe coding** para principiantes.
 
 ### Otras plataformas de vibe coding
 
@@ -209,7 +209,7 @@ En **[aprendevibecoding.com](https://aprendevibecoding.com)** aprenderás:
 ## ❓ Preguntas frecuentes
 
 **¿Cuál es la mejor plataforma de vibe coding para principiantes?**  
-[Bolt.new](https://bolt.new) es la mejor opción. Escribe descripciones en lenguaje natural y genera apps completas. No necesitas conocimientos previos de programación.
+[Lovable]([https://bolt.new](https://lovable.dev/?via=queiaes) es la mejor opción. Escribe descripciones en lenguaje natural y genera apps completas. No necesitas conocimientos previos de programación.
 
 **¿Puedo usar vibe coding en proyectos profesionales?**  
 Sí. Herramientas como [Cursor](https://cursor.sh), [GitHub Copilot](https://github.com/features/copilot) y [Windsurf](https://codeium.com/windsurf) están siendo adoptadas por empresas Fortune 500.
