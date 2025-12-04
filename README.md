@@ -27,8 +27,8 @@ Una colección curada de **herramientas de vibe coding**, **plataformas de desar
 
 Con **plataformas de vibe coding** y **herramientas de programación con inteligencia artificial**, puedes generar código automáticamente, colaborar con asistentes de IA y construir aplicaciones 10x más rápido.
 
-**Recursos para empezar:**
-- [automata/aicodeguide](https://github.com/automata) - A roadmap to start coding with AI.
+**No sabes donde empezar?:**
+- [Curso de Vibe Coding](https://aprendevibecoding.com/?ref=github) - Curso de Vibe Coding para crear tu primer app.
 
 ---
 
